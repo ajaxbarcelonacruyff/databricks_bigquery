@@ -1,0 +1,2 @@
+# databricks_bigquery
+Databricks AzureでBigQueryのテーブルを取得する
