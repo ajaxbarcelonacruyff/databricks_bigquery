@@ -31,8 +31,10 @@ While these permissions should cover most use cases, ensure they are adjusted as
 ## Generating a Service Account Key
 1. After creating the service account, click on the account from the service account list.
 2. Click the "Keys" tab at the top, then select "Add Key" and choose "Create new key."
+
    ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3939399/d932c202-be69-9de4-9283-4e2701bfeb0d.png)
 3. Select "JSON" as the key type and generate the key.
+
    ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3939399/9ae2f3fd-f784-19ce-88d7-e1054b74db8b.png)
 4. Download the JSON file after creation.
 
