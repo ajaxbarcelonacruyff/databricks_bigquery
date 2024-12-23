@@ -36,7 +36,7 @@ table_id AS table_name,
 DATETIME(TIMESTAMP_MILLIS(creation_time),'Pacific/Auckland') AS creation_datetime,
 DATETIME(TIMESTAMP_MILLIS(last_modified_time),'Pacific/Auckland') AS last_modified_datetime,
 * ,
- FROM project_id.analytics_178913160.__TABLES__
+ FROM project_id.analytics_xxxxxxxx.__TABLES__
 WHERE table_id LIKE "%_20241001"
 ;
 """
